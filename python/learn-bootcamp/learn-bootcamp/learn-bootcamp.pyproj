@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2dacfd64-092d-4a74-af4c-e2794fdb4e65</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>learn_bootcamp.py</StartupFile>
+    <StartupFile>learn-bootcamp04.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="learn_bootcamp.py" />
+    <Compile Include="learn-bootcamp02.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="learn-bootcamp04.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="learn_bootcamp01.py" />
+    <Compile Include="learn-bootcamp03.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
