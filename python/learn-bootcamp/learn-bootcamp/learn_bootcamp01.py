@@ -45,6 +45,9 @@ print(f"Total distance entered in Kms :{user_input} covered in miles :{int(user_
 
 # user input   name=input("enter your name ")
 
+type(foat_num)
+float_num.__type__
 
-
-
+name ="harry potter"
+name.replace('a','o')
+name=name.split(" ")
