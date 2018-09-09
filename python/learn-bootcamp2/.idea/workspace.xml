@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18b9c2e8-c54c-4f9b-a85d-4dda4349b45a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/regex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learn-bootcamp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learn-bootcamp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +20,12 @@
           <entry key="project.open.time.122" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/regex.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -100,11 +99,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-41" />
-    <option name="y" value="407" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="5" />
     <option name="width" value="1374" />
-    <option name="height" value="664" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -284,8 +282,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="623" y="62" width="1374" height="664" extended-state="0" />
-    <editor active="true" />
+    <frame x="5" y="0" width="1374" height="732" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14423792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -366,11 +363,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <marker date="1535379598366" expanded="true" signature="157:162" ph="..." />
-            <marker date="1535379598366" expanded="true" signature="346:362" ph="..." />
-            <marker date="1535379598366" expanded="true" signature="404:409" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -385,12 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="531">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <marker date="1534786799170" expanded="true" signature="15:20" ph="..." />
-            <marker date="1534786799170" expanded="true" signature="15:106" ph="..." />
-            <marker date="1534786799170" expanded="true" signature="731:1148" ph="..." />
-            <marker date="1534786799170" expanded="true" signature="855:938" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -405,11 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <marker date="1535552670185" expanded="true" signature="27:78" ph="..." />
-            <marker date="1535552670185" expanded="true" signature="113:118" ph="..." />
-            <marker date="1535552670185" expanded="true" signature="196:201" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,10 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="531">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <marker date="1535381156767" expanded="true" signature="26:31" ph="..." />
-            <marker date="1535381156767" expanded="true" signature="182:341" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -428,16 +405,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
           <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-          <folding>
-            <marker date="1535290846192" expanded="true" signature="17:22" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/regex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
