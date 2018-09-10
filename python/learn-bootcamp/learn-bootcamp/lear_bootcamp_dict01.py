@@ -142,3 +142,22 @@ print(dict4)
 
 '''
 
+import json
+d = {}
+
+list1 = ["a","b","c","d","e"]
+list2 = ["1","2","3","4","5"]
+
+for x in list1:
+    for y in list2:
+        d[x] = d.get(x, {})
+        d[x][y] = "hello world"
+
+
+
+
+print(d)
+
+
+
+

@@ -19,3 +19,9 @@
 #[^aeiou ] not aeiou
 # ^ must start with
 # $  end
+#r'(https?)://(www\.[A-za-z-]{2,256}\.[a-z]{2,6})([-a-zA-Z0-9@:%_\+.~#?&//=]*)'
+#  (?P<name>\d\d\d)  giving name to groups
+# re.verbose
+#search and replace .sub method
+
+

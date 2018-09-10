@@ -12,7 +12,7 @@
     <session id="-1239287828">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.116" value="1" />
           <entry key="project.open.time.14" value="1" />
@@ -23,26 +23,27 @@
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.76" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="397" />
           <entry key="dummy" value="3" />
-          <entry key="py" value="8032" />
+          <entry key="py" value="8282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="8429" />
+          <entry key="Python" value="8679" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -77,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-bootcamp/lear_bootcamp_dict01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+            <state relative-caret-position="133">
+              <caret line="145" column="6" selection-start-line="145" selection-start-column="6" selection-end-line="145" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -132,11 +133,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learn-bootcamp/learn_bootcamp_list01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4294">
-              <caret line="226" column="8" selection-start-line="226" selection-start-column="8" selection-end-line="226" selection-end-column="8" />
+            <state relative-caret-position="227">
+              <caret line="157" column="56" selection-start-line="157" selection-start-column="46" selection-end-line="157" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -165,13 +166,13 @@
         <option value="$PROJECT_DIR$/learn-bootcamp/learn-bootcamp04.py" />
         <option value="$PROJECT_DIR$/learn-bootcamp/learn_bootcamp05.py" />
         <option value="$PROJECT_DIR$/learn-bootcamp/spotifyplaylist_project.py" />
-        <option value="$PROJECT_DIR$/learn-bootcamp/lear_bootcamp_dict01.py" />
         <option value="$PROJECT_DIR$/learn-bootcamp/learn_bootcamp_tuple01.py" />
         <option value="$PROJECT_DIR$/learn-bootcamp/dump.py" />
         <option value="$PROJECT_DIR$/learn-bootcamp/learn_bootcamp_list01.py" />
         <option value="$PROJECT_DIR$/learn-bootcamp/learn_functoion.py" />
         <option value="$PROJECT_DIR$/learn-bootcamp/learn_function.py" />
         <option value="$PROJECT_DIR$/learn-bootcamp/learn_bootcamp01.py" />
+        <option value="$PROJECT_DIR$/learn-bootcamp/lear_bootcamp_dict01.py" />
       </list>
     </option>
   </component>
@@ -184,8 +185,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="5" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-179" />
+    <option name="y" value="144" />
     <option name="width" value="1374" />
     <option name="height" value="732" />
   </component>
@@ -232,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.learn_function">
+  <component name="RunManager" selected="Python.lear_bootcamp_dict01">
     <configuration name="dump" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn-bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -347,11 +349,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lear_bootcamp_dict01" />
         <item itemvalue="Python.learn_function" />
         <item itemvalue="Python.learn_functoion" />
         <item itemvalue="Python.dump" />
         <item itemvalue="Python.learn_bootcamp_tuple01" />
-        <item itemvalue="Python.lear_bootcamp_dict01" />
       </list>
     </recent_temporary>
   </component>
@@ -369,14 +371,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="0" width="1374" height="732" extended-state="0" />
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49835527" visible="true" weight="0.21189591" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49835527" visible="true" weight="0.21189591" />
       <window_info id="Structure" order="1" sideWeight="0.50164473" side_tool="true" weight="0.21710037" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49739778" weight="0.33115825" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49665427" weight="0.33115825" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,9 +387,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.31578946" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.49888477" visible="true" weight="0.32626426" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49888477" weight="0.32626426" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5026022" side_tool="true" weight="0.33115825" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5033457" side_tool="true" weight="0.33115825" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -486,13 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn-bootcamp/learn_bootcamp_list01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4294">
-          <caret line="226" column="8" selection-start-line="226" selection-start-column="8" selection-end-line="226" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn-bootcamp/learn_bootcamp05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -502,8 +498,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-bootcamp/lear_bootcamp_dict01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+        <state relative-caret-position="133">
+          <caret line="145" column="6" selection-start-line="145" selection-start-column="6" selection-end-line="145" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-bootcamp/learn_bootcamp_list01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="157" column="56" selection-start-line="157" selection-start-column="46" selection-end-line="157" selection-end-column="57" />
         </state>
       </provider>
     </entry>
