@@ -52,12 +52,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="23" />
+          <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="23" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
     </session>
@@ -76,7 +76,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learn-bootcamp/ALGO/Sort/BUBBLE_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="262">
               <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <marker date="1537880527375" expanded="true" signature="37:275" ph="..." />
@@ -109,6 +109,8 @@
         <option value="$PROJECT_DIR$/learn-bootcamp/lear_bootcamp_dict01.py" />
         <option value="$PROJECT_DIR$/learn-bootcamp/ALGO/Sort/BOGO_sort.py" />
         <option value="$PROJECT_DIR$/learn-bootcamp/ALGO/Sort/BUBBLE_sort.py" />
+        <option value="$PROJECT_DIR$/learn-bootcamp/ALGO/Sort/Insertion_sort.py" />
+        <option value="$PROJECT_DIR$/learn-bootcamp/ALGO/Sort/SelectionSort.py" />
       </list>
     </option>
   </component>
@@ -121,7 +123,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-275" />
     <option name="y" value="326" />
     <option name="width" value="1374" />
@@ -321,21 +323,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49835527" visible="true" weight="0.21189591" />
       <window_info id="Structure" order="1" sideWeight="0.50164473" side_tool="true" weight="0.21710037" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49665427" visible="true" weight="0.33115825" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49665427" weight="0.33115825" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31484503" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31484503" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49888477" weight="0.32626426" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5033457" side_tool="true" weight="0.33115825" />
@@ -461,9 +462,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learn-bootcamp/ALGO/Sort/SelectionSort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-bootcamp/ALGO/Sort/Insertion_sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/learn-bootcamp/ALGO/Sort/BUBBLE_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="262">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <marker date="1537880527375" expanded="true" signature="37:275" ph="..." />
