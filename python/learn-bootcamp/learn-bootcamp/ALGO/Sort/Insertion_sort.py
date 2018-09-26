@@ -1,4 +1,4 @@
-# insertion sort
+# Insertion sort
 
 def insertion_sort(a):
     for index in range(1, len(a)):
